@@ -1,6 +1,9 @@
 # Useless OS
 An Os That Says Hello World
 
+# Note
+you can change the message by changing "message: db 'Hello World', 0" Hello World to what ever you wanna say (line 26)
+
 # Install
 requirments: Linux (I dont know about other os's, I used linux), nasm, qemu, git
 
