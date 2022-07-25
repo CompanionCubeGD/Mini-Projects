@@ -31,7 +31,7 @@ while True:
     print('You said: %s' % text)
 ```
 
-# Toobar Example
+# Toolbar Example
 ```
 from prompt_toolkit import prompt
 from prompt_toolkit.formatted_text import HTML
