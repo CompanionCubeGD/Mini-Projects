@@ -19,7 +19,8 @@ Currently it has a tab-list and auto suggest but I will be add more
 # Todo
 - [ ] Add Windows Binary
 - [ ] Add GUI
-- [ ] Add For Features For Faster Use
+- [ ] Add For Features For Faster Use (Like Macro Support & Keybinds)
+- [ ] Add A Config File To Easily Configure Lapiz To Your Liking
 
 # How To Cuztomize
 you can add more stuff to it by using Prompt Toolkit (Docs: https://python-prompt-toolkit.readthedocs.io/en/master/)
