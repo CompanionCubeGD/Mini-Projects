@@ -1,5 +1,5 @@
 # Lapiz
-Python 3 terminal emulator make using Prompt Toolkit
+Python 3 terminal emulator made using Prompt Toolkit. Designed to make working in the terminal faster
 
 # Requirments
 ```
