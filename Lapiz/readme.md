@@ -6,6 +6,13 @@ Python 3 terminal emulator made using Prompt Toolkit. Designed to make working i
 pip install prompt_toolkit
 ```
 
+# How to install (Requires: Git, Python 3)
+```
+git clone https://github.com/CompanionCubeGD/Mini-Projects
+cd Mini-Projects/Lapiz
+python(3) Lapiz.py
+```
+
 # Features
 Currently it has a tab-list and auto suggest but I will be add more
 
