@@ -180,7 +180,7 @@ w = Window()
 get_app().layout.focus(w)
 ```
 
-# Second Keybinding Example
+# Advanced Keybinding Example
 ```
 from prompt_toolkit import Application
 from prompt_toolkit.key_binding import KeyBindings
