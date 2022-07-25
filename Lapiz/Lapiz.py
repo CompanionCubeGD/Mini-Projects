@@ -18,7 +18,7 @@ session = PromptSession()
 def bottom_toolbar():
     return HTML('type quit to quit')
 
-#Actaul Terminal Emulator
+#Actual Terminal Emulator
 while True:
     text = session.prompt('> ', auto_suggest=AutoSuggestFromHistory(), completer=html_completer, bottom_toolbar=bottom_toolbar())
     
