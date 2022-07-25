@@ -30,7 +30,7 @@ You can add tab-list words by editing the words inside Word Completer:
 html_completer = WordCompleter([''])
 ```
 
-You can add custom commands by making a if statment in in the while True loop
+You can add custom commands by making a if statment in in the while True loop. Example:
 ```
     if text == 'quit':
         quit()
