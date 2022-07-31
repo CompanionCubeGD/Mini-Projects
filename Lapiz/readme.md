@@ -36,7 +36,7 @@ You can add custom commands by making a if statment in in the while True loop. E
         quit()
 ```
 
-You can also edit the toolbar
+You can also edit the toolbar (Also sense the toolbar is just html code you can format it using html.)
 ```
 def bottom_toolbar():
     return HTML('type quit to quit')
